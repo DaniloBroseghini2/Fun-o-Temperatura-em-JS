@@ -9,7 +9,7 @@ body {
     align-items: center;
     height: 100vh;
     background-color: rgb(25, 149, 231);
-   
+
 }
 
 div {
@@ -18,5 +18,5 @@ div {
     width: max-content;
     height: max-content;
     padding: 10px;
-    
+
 }
